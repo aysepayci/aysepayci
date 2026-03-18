@@ -35,3 +35,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aysepayci&" alt="aysepayci" /></p>
 
+![Oyun Tahtasi](amiral1-3x6acqgmc-aysepaycis-projects.vercel.app/harita.svg)
