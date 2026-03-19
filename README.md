@@ -35,3 +35,20 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aysepayci&" alt="aysepayci" /></p>
 
+## 🚢 Amiral Battı Oyunu
+
+GitHub kontribüsyon grafiğimi kullanarak oyna! Benim commitlerimi gizli "gemiler" olarak düşün.
+
+<iframe 
+    src="https://aysepayci-amiral1.vercel.app/game/battleship.html" 
+    width="100%" 
+    height="700" 
+    style="border: none; border-radius: 10px; margin-top: 20px;">
+</iframe>
+
+**Nasıl Oynanır?**
+- 3 atış hakkın var
+- Her yeşil kare bir kontribüsyonu temsil ediyor
+- İsabeti kaç görebilir misin?
+
+[Tam oyunu oyna →](https://aysepayci-amiral1.vercel.app)
