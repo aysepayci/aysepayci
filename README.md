@@ -35,6 +35,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aysepayci&" alt="aysepayci" /></p>
 
-## 🚀 Amiral Battı Aktivite Haritası
-
-![Harita](https://amiral1-bgwidt37s-aysepaycis-projects.vercel.app/harita.svg)
