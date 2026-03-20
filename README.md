@@ -40,7 +40,7 @@
   <p>Benim GitHub geçmişimde gizli gemiler yüzüyor. 3 atış hakkın var, onları bulabilir misin?</p>
   
   <a href="https://amiral1-git-main-aysepaycis-projects.vercel.app" target="_blank">
-    <img src="https://i.imgur.com/vH9Z9lA.png" alt="Amiral Battı Oyna" width="700">
+    <img src="oyun-vitrin.png" alt="Amiral Battı Oyna" width="700">
   </a>
   <br><br>
   
